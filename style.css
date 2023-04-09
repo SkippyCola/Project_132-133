@@ -1,0 +1,20 @@
+body 
+{
+    background-size: cover;
+    background-position: center;
+    font-family: cursive;
+
+}
+
+
+#status
+{
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.style
+{
+    font-size: 17px;
+    font-family: cursive;
+}
